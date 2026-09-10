@@ -2,6 +2,8 @@
 
 An introductory Python project using VS Code, Git, and pytest.
 
+**Repository:** https://github.com/ac2928/is218-python-workflow
+
 ## Project Structure
 * `README.md` - Documentation and setup instructions.
 * `.gitignore` - Excludes virtual environments and Python cache files.
@@ -17,3 +19,4 @@ An introductory Python project using VS Code, Git, and pytest.
 
 ## Running Tests
 * **Run Pytest:** `python -m pytest`
+* **Passing Tests:** 2 passed
